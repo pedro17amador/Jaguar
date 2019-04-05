@@ -1,0 +1,41 @@
+.jaguar{
+	position:absolute;
+	height:180px; 
+	width:250px;
+	background-color:gray;
+}
+.quadrado_cinza{
+	position:absolute;
+	height:180px; 
+	width:807px;
+	background-color:gray;
+	left:250px;
+}
+.texto{
+	position:absolute;
+	height:535px; 
+	width:250px;
+	background-color:gray;
+	top:187px;
+}
+.tres{
+	position:absolute;
+	height:180px; 
+	width:250px;
+	background-color:gray;
+	left:258px;
+	top:188px;	
+}
+.rodape{
+	position:absolute;
+	height:30px;
+	width:1050px;
+	background-color:black;
+	top:721px;
+	color:#fff
+}
+hr{
+ border-color:black; 
+}
+
+
